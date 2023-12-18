@@ -1,0 +1,7 @@
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Phase 2\Day8\Day8Assignment\Day8AssignmentPart2\Day8AssignmentPart2\bin\Debug\Day8AssignmentPart2.exe.config
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Phase 2\Day8\Day8Assignment\Day8AssignmentPart2\Day8AssignmentPart2\bin\Debug\Day8AssignmentPart2.exe
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Phase 2\Day8\Day8Assignment\Day8AssignmentPart2\Day8AssignmentPart2\bin\Debug\Day8AssignmentPart2.pdb
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Phase 2\Day8\Day8Assignment\Day8AssignmentPart2\Day8AssignmentPart2\obj\Debug\Day8AssignmentPart2.csproj.AssemblyReference.cache
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Phase 2\Day8\Day8Assignment\Day8AssignmentPart2\Day8AssignmentPart2\obj\Debug\Day8AssignmentPart2.csproj.CoreCompileInputs.cache
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Phase 2\Day8\Day8Assignment\Day8AssignmentPart2\Day8AssignmentPart2\obj\Debug\Day8AssignmentPart2.exe
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Phase 2\Day8\Day8Assignment\Day8AssignmentPart2\Day8AssignmentPart2\obj\Debug\Day8AssignmentPart2.pdb
